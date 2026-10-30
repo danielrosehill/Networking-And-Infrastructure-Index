@@ -4,16 +4,11 @@
 
 Index of repositories for networking, homelab infrastructure, server management, Docker, and LAN administration.
 
-*Last updated: 2026-03-25*
+**Last Updated:** October 2026
 
 ---
 
 ## LAN & Network Management
-
-### Claude-Code-LAN-Manager
-Repo for using Claude Code to manage local servers/homelabs
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Code--LAN--Manager-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-LAN-Manager)
 
 ### Claude-LAN-Manager-0126
 LAN management GUI
@@ -24,11 +19,6 @@ LAN management GUI
 Specialized workspace for network system administration on local area networks
 
 [![GitHub](https://img.shields.io/badge/GitHub-lan--manager--plugin-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/lan-manager-plugin)
-
-### MCP-Network-Manager
-Docs/notes for deploying a LAN sysadmin solution using MCP
-
-[![GitHub](https://img.shields.io/badge/GitHub-MCP--Network--Manager-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/MCP-Network-Manager)
 
 ### My-Network-MCP
 MCP for providing a manually managed LAN directory to AI tools
@@ -54,16 +44,6 @@ MCP-CUPS bridge for LAN clients with printing tools for a networked printer
 
 ## Server Management
 
-### Claude-Linux-Server-Manager
-Template repository for creating Claude Code structured workspace in a remote server environment
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Linux--Server--Manager-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Linux-Server-Manager)
-
-### Claude-Server-Mgmt-Template-SBCs
-Version of Claude Code server manager template for single board computers (SBCs)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Server--Mgmt--Template--SBCs-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Server-Mgmt-Template-SBCs)
-
 ### linux-server-plugin
 Claude Code plugin for Linux server administration, service management
 
@@ -83,11 +63,6 @@ Local AI inference server for AMD GPU users
 
 ## NAS & Storage
 
-### Claude-Synology-Manager
-Claude workspace (pattern) for managing a LAN Synology NAS
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Synology--Manager-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Synology-Manager)
-
 ### NFS-SMB-Share-Lister
 Script for listing NFS and SMB shares on a local NAS
 
@@ -101,16 +76,6 @@ MCP for saving to NAS
 ---
 
 ## Docker & Containers
-
-### Claude-Docker-Manager
-Template management workspace for using Claude to co-admin a Docker env
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Docker--Manager-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Docker-Manager)
-
-### docker-asist-plugin
-Claude Code plugin for Docker container management, containerization workflows
-
-[![GitHub](https://img.shields.io/badge/GitHub-docker--asist--plugin-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/docker-asist-plugin)
 
 ### OpenWebUI-Postgres-Qdrant
 Docker Compose for OpenWebUI + Postgres + Qdrant
@@ -126,15 +91,6 @@ Microservices Docker stack for Pikud HaOref red alert monitoring
 Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kokoro--FastAPI-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Kokoro-FastAPI)
-
----
-
-## Proxmox & Virtualisation
-
-### Claude-Proxmox-Manager-Template
-Claude Code server manager template adapter for Proxmox environment
-
-[![GitHub](https://img.shields.io/badge/GitHub-Claude--Proxmox--Manager--Template-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Proxmox-Manager-Template)
 
 ---
 
@@ -159,10 +115,10 @@ Various Bash scripts and resources for a fresh Ubuntu installation
 
 [![GitHub](https://img.shields.io/badge/GitHub-UbuntuBackupStrategy-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/UbuntuBackupStrategy)
 
-### security-checkup-plugin
+### Claude-Security-Checkup-Plugin
 Claude Code plugin for security audits, vulnerability scanning, firewall configuration
 
-[![GitHub](https://img.shields.io/badge/GitHub-security--checkup--plugin-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/security-checkup-plugin)
+[![GitHub](https://img.shields.io/badge/GitHub-security--checkup--plugin-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Security-Checkup-Plugin)
 
 ### NEO_NAS_AB02B2_MQTT_Control
 MQTT controls scripts for the NEO NAS-AB02B2 Zigbee siren
